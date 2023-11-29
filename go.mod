@@ -8,8 +8,7 @@ require (
 	github.com/samber/lo v1.38.1
 	github.com/spf13/cast v1.5.1
 	github.com/spf13/viper v1.17.0
-	//gitops.sudytech.cn/guolei/dm v0.0.11
-	gitops.sudytech.cn/guolei/dm v0.0.1
+	gitops.sudytech.cn/guolei/dm v0.0.11
 	go.uber.org/zap v1.26.0
 	google.golang.org/protobuf v1.31.0
 	gorm.io/driver/mysql v1.4.3
